@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  my_swift_app
+
+  Created by François Dinong on 02/08/2023.
+  
+*/
+"Welcome to my_swift_app" = "Bienvenue dans l'application my_swift_app";
+"Share Current Location" = "Partager votre position actuelle";
+"Please share your location" = "Veuillez partager votre localisation";
+
